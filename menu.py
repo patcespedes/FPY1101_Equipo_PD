@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 def datos_patricio():
     print("Mi nombre es Patricio Céspedes y tengo 30 años.")
 
